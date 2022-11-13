@@ -4,7 +4,7 @@
 
 ## Step1
 
-install dev dependences
+install dev dependencies
 
 ### `npm install`
 
